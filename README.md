@@ -1,2 +1,1 @@
-# calculatorac
-Simple Calculator
+# coding-project-template
